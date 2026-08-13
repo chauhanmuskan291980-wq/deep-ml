@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:00:11.297Z",
+  "generated_at": "2026-09-19T09:00:12.881Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -281,6 +281,28 @@
       "last_pushed_at": "2026-08-12T16:48:30.779Z",
       "language": "python",
       "lines": 22
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-08-13T17:13:42.764Z",
+      "last_pushed_at": "2026-08-13T17:13:42.764Z"
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-08-13T17:24:28.848Z",
+      "last_pushed_at": "2026-08-13T17:24:28.848Z"
     }
   }
 }
