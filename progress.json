@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:00:16.223Z",
+  "generated_at": "2026-09-19T09:00:17.892Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -373,6 +373,32 @@
       "last_pushed_at": "2026-08-15T08:00:15.026Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-08-16T16:08:10.529Z",
+      "last_pushed_at": "2026-08-16T16:08:10.529Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:1022": {
+      "kind": "problem",
+      "id": "1022",
+      "title": "L2 Normalization Along an Axis",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1022",
+      "path": "problems/1022-l2-normalization-along-an-axis",
+      "first_solved_at": "2026-08-16T16:22:15.004Z",
+      "last_pushed_at": "2026-08-16T16:22:15.004Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
