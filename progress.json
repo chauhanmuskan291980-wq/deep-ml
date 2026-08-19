@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:00:21.088Z",
+  "generated_at": "2026-09-19T09:00:22.751Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -423,6 +423,19 @@
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-08-18T16:33:47.221Z",
       "last_pushed_at": "2026-08-18T16:33:47.221Z"
+    },
+    "problem:1072": {
+      "kind": "problem",
+      "id": "1072",
+      "title": "Pairwise Cosine Similarity Matrix",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1072",
+      "path": "problems/1072-pairwise-cosine-similarity-matrix",
+      "first_solved_at": "2026-08-19T15:57:02.681Z",
+      "last_pushed_at": "2026-08-19T15:57:02.681Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
