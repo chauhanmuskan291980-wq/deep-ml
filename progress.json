@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:00:26.113Z",
+  "generated_at": "2026-09-19T09:00:27.725Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -462,6 +462,32 @@
       "last_pushed_at": "2026-08-22T16:41:52.459Z",
       "language": "python",
       "lines": 61
+    },
+    "problem:57": {
+      "kind": "problem",
+      "id": "57",
+      "title": "Gauss-Seidel Method for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/57",
+      "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
+      "first_solved_at": "2026-08-23T17:47:33.110Z",
+      "last_pushed_at": "2026-08-23T17:47:33.110Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:119": {
+      "kind": "problem",
+      "id": "119",
+      "title": "Solve System of Linear Equations Using Cramer's Rule",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/119",
+      "path": "problems/0119-solve-system-of-linear-equations-using-cramer-s-rule",
+      "first_solved_at": "2026-08-23T17:50:32.396Z",
+      "last_pushed_at": "2026-08-23T17:50:32.396Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
