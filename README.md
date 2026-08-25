@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 24 problems · 0 labs · 16 math
+**41** solved · 24 problems · 0 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -50,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-08-07 | [solution](math/0007-vector-operations) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-08-14 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-08-13 | [solution](math/0011-determinants-and-trace) |
+| [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-08-25 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-08-13 | [solution](math/0012-inverse-and-rank) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-08-14 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-08-07 | [solution](math/0010-matrix-multiplication) |
